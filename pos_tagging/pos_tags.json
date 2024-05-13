@@ -1,0 +1,13 @@
+{
+    "ADJ": "adjective",
+    "ADV": "adverb",
+    "AUX": "auxilary",
+    "CONJ": "conjunction",
+    "DET": "determiner",
+    "NOUN": "noun",
+    "NUM": "numeral",
+    "PREP": "preposition",
+    "PRON": "pronoun",
+    "PRT": "particle",
+    "VERB": "verb"
+}
