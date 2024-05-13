@@ -1,0 +1,6006 @@
+[
+    {
+        "word": "hinɛ",
+        "meaning": [
+            {
+                "word": "To be merciful",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka hinɛ",
+            "transitive": {
+                "past_form": "hinɛra",
+                "present_form": "hinɛ",
+                "future_form": "hinɛ"
+            },
+            "intransitive": {
+                "past_form": "hinɛra",
+                "present_form": "hinɛ",
+                "future_form": "hinɛ"
+            },
+            "present_participle": [
+                "hinɛtɔ",
+                "hinɛtɔla"
+            ],
+            "past_participle": "hinɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yaala",
+        "meaning": [
+            {
+                "word": "To go",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yaala",
+            "transitive": {
+                "past_form": "yaalala",
+                "present_form": "yaala",
+                "future_form": "yaala"
+            },
+            "intransitive": {
+                "past_form": "yaalala",
+                "present_form": "yaala",
+                "future_form": "yaala"
+            },
+            "present_participle": [
+                "yaalatɔ",
+                "yaalatɔla"
+            ],
+            "past_participle": "yaalalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "taga",
+        "meaning": [
+            {
+                "word": "To take a walk",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka taga",
+            "transitive": {
+                "past_form": "tagara",
+                "present_form": "taga",
+                "future_form": "taga"
+            },
+            "intransitive": {
+                "past_form": "tagara",
+                "present_form": "taga",
+                "future_form": "taga"
+            },
+            "present_participle": [
+                "tagatɔ",
+                "tagatɔla"
+            ],
+            "past_participle": "tagalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "miiri",
+        "meaning": [
+            {
+                "word": "To think",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka miiri",
+            "transitive": {
+                "past_form": "miirira",
+                "present_form": "miiri",
+                "future_form": "miiri"
+            },
+            "intransitive": {
+                "past_form": "miirira",
+                "present_form": "miiri",
+                "future_form": "miiri"
+            },
+            "present_participle": [
+                "miiritɔ",
+                "miiritɔla"
+            ],
+            "past_participle": "miirilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "na",
+        "meaning": [
+            {
+                "word": "To come",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka na",
+            "transitive": {
+                "past_form": "nara",
+                "present_form": "na",
+                "future_form": "na"
+            },
+            "intransitive": {
+                "past_form": "nara",
+                "present_form": "na",
+                "future_form": "na"
+            },
+            "present_participle": [
+                "natɔ",
+                "natɔla"
+            ],
+            "past_participle": "nalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kuma",
+        "meaning": [
+            {
+                "word": "To Talk",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kuma",
+            "transitive": {
+                "past_form": "kumara",
+                "present_form": "kuma",
+                "future_form": "kuma"
+            },
+            "intransitive": {
+                "past_form": "kumara",
+                "present_form": "kuma",
+                "future_form": "kuma"
+            },
+            "present_participle": [
+                "kumatɔ",
+                "kumatɔla"
+            ],
+            "past_participle": "kumalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "boli",
+        "meaning": [
+            {
+                "word": "To run",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka boli",
+            "transitive": {
+                "past_form": "bolila",
+                "present_form": "boli",
+                "future_form": "boli"
+            },
+            "intransitive": {
+                "past_form": "bolila",
+                "present_form": "boli",
+                "future_form": "boli"
+            },
+            "present_participle": [
+                "bolitɔ",
+                "bolitɔla"
+            ],
+            "past_participle": "bolilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sigi",
+        "meaning": [
+            {
+                "word": "To sit",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sigi",
+            "transitive": {
+                "past_form": "sigira",
+                "present_form": "sigi",
+                "future_form": "sigi"
+            },
+            "intransitive": {
+                "past_form": "sigira",
+                "present_form": "sigi",
+                "future_form": "sigi"
+            },
+            "present_participle": [
+                "sigitɔ",
+                "sigitɔla"
+            ],
+            "past_participle": "sigilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "da",
+        "meaning": [
+            {
+                "word": "To lay",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka da",
+            "transitive": {
+                "past_form": "dara",
+                "present_form": "da",
+                "future_form": "da"
+            },
+            "intransitive": {
+                "past_form": "dara",
+                "present_form": "da",
+                "future_form": "da"
+            },
+            "present_participle": [
+                "datɔ",
+                "datɔla"
+            ],
+            "past_participle": "dalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "taama",
+        "meaning": [
+            {
+                "word": "To walk",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka taama",
+            "transitive": {
+                "past_form": "taamara",
+                "present_form": "taama",
+                "future_form": "taama"
+            },
+            "intransitive": {
+                "past_form": "taamara",
+                "present_form": "taama",
+                "future_form": "taama"
+            },
+            "present_participle": [
+                "taamatɔ",
+                "taamatɔla"
+            ],
+            "past_participle": "taamalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tɛmɛ",
+        "meaning": [
+            {
+                "word": "To pass",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tɛmɛ",
+            "transitive": {
+                "past_form": "tɛmɛra",
+                "present_form": "tɛmɛ",
+                "future_form": "tɛmɛ"
+            },
+            "intransitive": {
+                "past_form": "tɛmɛra",
+                "present_form": "tɛmɛ",
+                "future_form": "tɛmɛ"
+            },
+            "present_participle": [
+                "tɛmɛtɔ",
+                "tɛmɛtɔla"
+            ],
+            "past_participle": "tɛmɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sa",
+        "meaning": [
+            {
+                "word": "To die",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sa",
+            "transitive": {
+                "past_form": "sara",
+                "present_form": "sa",
+                "future_form": "sa"
+            },
+            "intransitive": {
+                "past_form": "sara",
+                "present_form": "sa",
+                "future_form": "sa"
+            },
+            "present_participle": [
+                "satɔ",
+                "satɔla"
+            ],
+            "past_participle": "salen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "don",
+        "meaning": [
+            {
+                "word": "To enter",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka don",
+            "transitive": {
+                "past_form": "donna",
+                "present_form": "don",
+                "future_form": "don"
+            },
+            "intransitive": {
+                "past_form": "donna",
+                "present_form": "don",
+                "future_form": "don"
+            },
+            "present_participle": [
+                "dontɔ",
+                "dontɔla"
+            ],
+            "past_participle": "donlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bɔ",
+        "meaning": [
+            {
+                "word": "To come from",
+                "circonstance": ""
+            },
+            {
+                "word": "To go out",
+                "circonstance": ""
+            },
+            {
+                "word": "To exit",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bɔ",
+            "transitive": {
+                "past_form": "bɔra",
+                "present_form": "bɔ",
+                "future_form": "bɔ"
+            },
+            "intransitive": {
+                "past_form": "bɔra",
+                "present_form": "bɔ",
+                "future_form": "bɔ"
+            },
+            "present_participle": [
+                "bɔtɔ",
+                "bɔtɔla"
+            ],
+            "past_participle": "bɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yɛle",
+        "meaning": [
+            {
+                "word": "To go up",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yɛle",
+            "transitive": {
+                "past_form": "yɛlela",
+                "present_form": "yɛle",
+                "future_form": "yɛle"
+            },
+            "intransitive": {
+                "past_form": "yɛlela",
+                "present_form": "yɛle",
+                "future_form": "yɛle"
+            },
+            "present_participle": [
+                "yɛletɔ",
+                "yɛletɔla"
+            ],
+            "past_participle": "yɛlelen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jigin",
+        "meaning": [
+            {
+                "word": "To to go down",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jigin",
+            "transitive": {
+                "past_form": "jiginna",
+                "present_form": "jigin",
+                "future_form": "jigin"
+            },
+            "intransitive": {
+                "past_form": "jiginna",
+                "present_form": "jigin",
+                "future_form": "jigin"
+            },
+            "present_participle": [
+                "jigintɔ",
+                "jigintɔla"
+            ],
+            "past_participle": "jiginlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yɛlɛ",
+        "meaning": [
+            {
+                "word": "To open",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yɛlɛ",
+            "transitive": {
+                "past_form": "yɛlɛla",
+                "present_form": "yɛlɛ",
+                "future_form": "yɛlɛ"
+            },
+            "intransitive": {
+                "past_form": "yɛlɛla",
+                "present_form": "yɛlɛ",
+                "future_form": "yɛlɛ"
+            },
+            "present_participle": [
+                "yɛlɛtɔ",
+                "yɛlɛtɔla"
+            ],
+            "past_participle": "yɛlɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yɛlɛ",
+        "meaning": [
+            {
+                "word": "To laugh",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yɛlɛ",
+            "transitive": {
+                "past_form": "yɛlɛla",
+                "present_form": "yɛlɛ",
+                "future_form": "yɛlɛ"
+            },
+            "intransitive": {
+                "past_form": "yɛlɛla",
+                "present_form": "yɛlɛ",
+                "future_form": "yɛlɛ"
+            },
+            "present_participle": [
+                "yɛlɛtɔ",
+                "yɛlɛtɔla"
+            ],
+            "past_participle": "yɛlɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dayɛlɛ",
+        "meaning": [
+            {
+                "word": "To open the door",
+                "circonstance": ""
+            },
+            {
+                "word": "To pen",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dayɛlɛ",
+            "transitive": {
+                "past_form": "dayɛlɛla",
+                "present_form": "dayɛlɛ",
+                "future_form": "dayɛlɛ"
+            },
+            "intransitive": {
+                "past_form": "dayɛlɛla",
+                "present_form": "dayɛlɛ",
+                "future_form": "dayɛlɛ"
+            },
+            "present_participle": [
+                "dayɛlɛtɔ",
+                "dayɛlɛtɔla"
+            ],
+            "past_participle": "dayɛlɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "segin",
+        "meaning": [
+            {
+                "word": "To return",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka segin",
+            "transitive": {
+                "past_form": "seginna",
+                "present_form": "segin",
+                "future_form": "segin"
+            },
+            "intransitive": {
+                "past_form": "seginna",
+                "present_form": "segin",
+                "future_form": "segin"
+            },
+            "present_participle": [
+                "segintɔ",
+                "segintɔla"
+            ],
+            "past_participle": "seginlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jɔ",
+        "meaning": [
+            {
+                "word": "To stand",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jɔ",
+            "transitive": {
+                "past_form": "jɔra",
+                "present_form": "jɔ",
+                "future_form": "jɔ"
+            },
+            "intransitive": {
+                "past_form": "jɔra",
+                "present_form": "jɔ",
+                "future_form": "jɔ"
+            },
+            "present_participle": [
+                "jɔtɔ",
+                "jɔtɔla"
+            ],
+            "past_participle": "jɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sunɔgɔ",
+        "meaning": [
+            {
+                "word": "To sleep",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sunɔgɔ",
+            "transitive": {
+                "past_form": "sunɔgɔra",
+                "present_form": "sunɔgɔ",
+                "future_form": "sunɔgɔ"
+            },
+            "intransitive": {
+                "past_form": "sunɔgɔra",
+                "present_form": "sunɔgɔ",
+                "future_form": "sunɔgɔ"
+            },
+            "present_participle": [
+                "sunɔgɔtɔ",
+                "sunɔgɔtɔla"
+            ],
+            "past_participle": "sunɔgɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "su",
+        "meaning": [
+            {
+                "word": "To dip",
+                "circonstance": ""
+            },
+            {
+                "word": "To get drunk",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka su",
+            "transitive": {
+                "past_form": "sura",
+                "present_form": "su",
+                "future_form": "su"
+            },
+            "intransitive": {
+                "past_form": "sura",
+                "present_form": "su",
+                "future_form": "su"
+            },
+            "present_participle": [
+                "sutɔ",
+                "sutɔla"
+            ],
+            "past_participle": "sulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɛnɛya",
+        "meaning": [
+            {
+                "word": "To recover",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɛnɛya",
+            "transitive": {
+                "past_form": "kɛnɛyara",
+                "present_form": "kɛnɛya",
+                "future_form": "kɛnɛya"
+            },
+            "intransitive": {
+                "past_form": "kɛnɛyara",
+                "present_form": "kɛnɛya",
+                "future_form": "kɛnɛya"
+            },
+            "present_participle": [
+                "kɛnɛyatɔ",
+                "kɛnɛyatɔla"
+            ],
+            "past_participle": "kɛnɛyalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "seli",
+        "meaning": [
+            {
+                "word": "To pray",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka seli",
+            "transitive": {
+                "past_form": "selila",
+                "present_form": "seli",
+                "future_form": "seli"
+            },
+            "intransitive": {
+                "past_form": "selila",
+                "present_form": "seli",
+                "future_form": "seli"
+            },
+            "present_participle": [
+                "selitɔ",
+                "selitɔla"
+            ],
+            "past_participle": "selilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "fa",
+        "meaning": [
+            {
+                "word": "To fill",
+                "circonstance": ""
+            },
+            {
+                "word": "To satiate",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka fa",
+            "transitive": {
+                "past_form": "fara",
+                "present_form": "fa",
+                "future_form": "fa"
+            },
+            "intransitive": {
+                "past_form": "fara",
+                "present_form": "fa",
+                "future_form": "fa"
+            },
+            "present_participle": [
+                "fatɔ",
+                "fatɔla"
+            ],
+            "past_participle": "falen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ban",
+        "meaning": [
+            {
+                "word": "To recline",
+                "circonstance": ""
+            },
+            {
+                "word": "To refuse",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ban",
+            "transitive": {
+                "past_form": "banna",
+                "present_form": "ban",
+                "future_form": "ban"
+            },
+            "intransitive": {
+                "past_form": "banna",
+                "present_form": "ban",
+                "future_form": "ban"
+            },
+            "present_participle": [
+                "bantɔ",
+                "bantɔla"
+            ],
+            "past_participle": "banlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bɔn",
+        "meaning": [
+            {
+                "word": "To pour",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bɔn",
+            "transitive": {
+                "past_form": "bɔnna",
+                "present_form": "bɔn",
+                "future_form": "bɔn"
+            },
+            "intransitive": {
+                "past_form": "bɔnna",
+                "present_form": "bɔn",
+                "future_form": "bɔn"
+            },
+            "present_participle": [
+                "bɔntɔ",
+                "bɔntɔla"
+            ],
+            "past_participle": "bɔnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kasi",
+        "meaning": [
+            {
+                "word": "To cry",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kasi",
+            "transitive": {
+                "past_form": "kasira",
+                "present_form": "kasi",
+                "future_form": "kasi"
+            },
+            "intransitive": {
+                "past_form": "kasira",
+                "present_form": "kasi",
+                "future_form": "kasi"
+            },
+            "present_participle": [
+                "kasitɔ",
+                "kasitɔla"
+            ],
+            "past_participle": "kasilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "funu",
+        "meaning": [
+            {
+                "word": "To swell",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka funu",
+            "transitive": {
+                "past_form": "funura",
+                "present_form": "funu",
+                "future_form": "funu"
+            },
+            "intransitive": {
+                "past_form": "funura",
+                "present_form": "funu",
+                "future_form": "funu"
+            },
+            "present_participle": [
+                "funutɔ",
+                "funutɔla"
+            ],
+            "past_participle": "funulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bin",
+        "meaning": [
+            {
+                "word": "To fall",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bin",
+            "transitive": {
+                "past_form": "binna",
+                "present_form": "bin",
+                "future_form": "bin"
+            },
+            "intransitive": {
+                "past_form": "binna",
+                "present_form": "bin",
+                "future_form": "bin"
+            },
+            "present_participle": [
+                "bintɔ",
+                "bintɔla"
+            ],
+            "past_participle": "binlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "wili",
+        "meaning": [
+            {
+                "word": "To get up",
+                "circonstance": ""
+            },
+            {
+                "word": "To wake up",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka wili",
+            "transitive": {
+                "past_form": "wilila",
+                "present_form": "wili",
+                "future_form": "wili"
+            },
+            "intransitive": {
+                "past_form": "wilila",
+                "present_form": "wili",
+                "future_form": "wili"
+            },
+            "present_participle": [
+                "wilitɔ",
+                "wilitɔla"
+            ],
+            "past_participle": "wililen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sɔgɔsɔgɔ",
+        "meaning": [
+            {
+                "word": "To cough",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sɔgɔsɔgɔ",
+            "transitive": {
+                "past_form": "sɔgɔsɔgɔra",
+                "present_form": "sɔgɔsɔgɔ",
+                "future_form": "sɔgɔsɔgɔ"
+            },
+            "intransitive": {
+                "past_form": "sɔgɔsɔgɔra",
+                "present_form": "sɔgɔsɔgɔ",
+                "future_form": "sɔgɔsɔgɔ"
+            },
+            "present_participle": [
+                "sɔgɔsɔgɔtɔ",
+                "sɔgɔsɔgɔtɔla"
+            ],
+            "past_participle": "sɔgɔsɔgɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "se",
+        "meaning": [
+            {
+                "word": "Can",
+                "circonstance": ""
+            },
+            {
+                "word": "To arrive",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka se",
+            "transitive": {
+                "past_form": "sera",
+                "present_form": "se",
+                "future_form": "se"
+            },
+            "intransitive": {
+                "past_form": "sera",
+                "present_form": "se",
+                "future_form": "se"
+            },
+            "present_participle": [
+                "setɔ",
+                "setɔla"
+            ],
+            "past_participle": "selen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "boli",
+        "meaning": [
+            {
+                "word": "To run",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka boli",
+            "transitive": {
+                "past_form": "bolila",
+                "present_form": "boli",
+                "future_form": "boli"
+            },
+            "intransitive": {
+                "past_form": "bolila",
+                "present_form": "boli",
+                "future_form": "boli"
+            },
+            "present_participle": [
+                "bolitɔ",
+                "bolitɔla"
+            ],
+            "past_participle": "bolilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲina",
+        "meaning": [
+            {
+                "word": "To forget",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲina",
+            "transitive": {
+                "past_form": "ɲinara",
+                "present_form": "ɲina",
+                "future_form": "ɲina"
+            },
+            "intransitive": {
+                "past_form": "ɲinara",
+                "present_form": "ɲina",
+                "future_form": "ɲina"
+            },
+            "present_participle": [
+                "ɲinatɔ",
+                "ɲinatɔla"
+            ],
+            "past_participle": "ɲinalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tɔrɔ",
+        "meaning": [
+            {
+                "word": "To suffer",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tɔrɔ",
+            "transitive": {
+                "past_form": "tɔrɔra",
+                "present_form": "tɔrɔ",
+                "future_form": "tɔrɔ"
+            },
+            "intransitive": {
+                "past_form": "tɔrɔra",
+                "present_form": "tɔrɔ",
+                "future_form": "tɔrɔ"
+            },
+            "present_participle": [
+                "tɔrɔtɔ",
+                "tɔrɔtɔla"
+            ],
+            "past_participle": "tɔrɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "gilase",
+        "meaning": [
+            {
+                "word": "To freeze",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka gilase",
+            "transitive": {
+                "past_form": "gilasera",
+                "present_form": "gilase",
+                "future_form": "gilase"
+            },
+            "intransitive": {
+                "past_form": "gilasera",
+                "present_form": "gilase",
+                "future_form": "gilase"
+            },
+            "present_participle": [
+                "gilasetɔ",
+                "gilasetɔla"
+            ],
+            "past_participle": "gilaselen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "si",
+        "meaning": [
+            {
+                "word": "To spend the night",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka si",
+            "transitive": {
+                "past_form": "sira",
+                "present_form": "si",
+                "future_form": "si"
+            },
+            "intransitive": {
+                "past_form": "sira",
+                "present_form": "si",
+                "future_form": "si"
+            },
+            "present_participle": [
+                "sitɔ",
+                "sitɔla"
+            ],
+            "past_participle": "silen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "singa",
+        "meaning": [
+            {
+                "word": "To hesitate",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka singa",
+            "transitive": {
+                "past_form": "singara",
+                "present_form": "singa",
+                "future_form": "singa"
+            },
+            "intransitive": {
+                "past_form": "singara",
+                "present_form": "singa",
+                "future_form": "singa"
+            },
+            "present_participle": [
+                "singatɔ",
+                "singatɔla"
+            ],
+            "past_participle": "singalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tunun",
+        "meaning": [
+            {
+                "word": "To lose",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tunun",
+            "transitive": {
+                "past_form": "tununna",
+                "present_form": "tunun",
+                "future_form": "tunun"
+            },
+            "intransitive": {
+                "past_form": "tununna",
+                "present_form": "tunun",
+                "future_form": "tunun"
+            },
+            "present_participle": [
+                "tununtɔ",
+                "tununtɔla"
+            ],
+            "past_participle": "tununlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɔrɔ",
+        "meaning": [
+            {
+                "word": "To be old",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɔrɔ",
+            "transitive": {
+                "past_form": "kɔrɔra",
+                "present_form": "kɔrɔ",
+                "future_form": "kɔrɔ"
+            },
+            "intransitive": {
+                "past_form": "kɔrɔra",
+                "present_form": "kɔrɔ",
+                "future_form": "kɔrɔ"
+            },
+            "present_participle": [
+                "kɔrɔtɔ",
+                "kɔrɔtɔla"
+            ],
+            "past_participle": "kɔrɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɛ",
+        "meaning": [
+            {
+                "word": "To do",
+                "circonstance": ""
+            },
+            {
+                "word": "to be",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɛ",
+            "transitive": {
+                "past_form": "kɛra",
+                "present_form": "kɛ",
+                "future_form": "kɛ"
+            },
+            "intransitive": {
+                "past_form": "kɛra",
+                "present_form": "kɛ",
+                "future_form": "kɛ"
+            },
+            "present_participle": [
+                "kɛtɔ",
+                "kɛtɔla"
+            ],
+            "past_participle": "kɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sɔrɔ",
+        "meaning": [
+            {
+                "word": "T get",
+                "circonstance": ""
+            },
+            {
+                "word": "To obtain",
+                "circonstance": ""
+            },
+            {
+                "word": "To find",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sɔrɔ",
+            "transitive": {
+                "past_form": "sɔrɔra",
+                "present_form": "sɔrɔ",
+                "future_form": "sɔrɔ"
+            },
+            "intransitive": {
+                "past_form": "sɔrɔra",
+                "present_form": "sɔrɔ",
+                "future_form": "sɔrɔ"
+            },
+            "present_participle": [
+                "sɔrɔtɔ",
+                "sɔrɔtɔla"
+            ],
+            "past_participle": "sɔrɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "fɔ",
+        "meaning": [
+            {
+                "word": "To say",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka fɔ",
+            "transitive": {
+                "past_form": "fɔra",
+                "present_form": "fɔ",
+                "future_form": "fɔ"
+            },
+            "intransitive": {
+                "past_form": "fɔra",
+                "present_form": "fɔ",
+                "future_form": "fɔ"
+            },
+            "present_participle": [
+                "fɔtɔ",
+                "fɔtɔla"
+            ],
+            "past_participle": "fɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ta",
+        "meaning": [
+            {
+                "word": "To take",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ta",
+            "transitive": {
+                "past_form": "tara",
+                "present_form": "ta",
+                "future_form": "ta"
+            },
+            "intransitive": {
+                "past_form": "tara",
+                "present_form": "ta",
+                "future_form": "ta"
+            },
+            "present_participle": [
+                "tatɔ",
+                "tatɔla"
+            ],
+            "past_participle": "talen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "lajɛ",
+        "meaning": [
+            {
+                "word": "To look",
+                "circonstance": ""
+            },
+            {
+                "word": "To regard",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka lajɛ",
+            "transitive": {
+                "past_form": "lajɛra",
+                "present_form": "lajɛ",
+                "future_form": "lajɛ"
+            },
+            "intransitive": {
+                "past_form": "lajɛra",
+                "present_form": "lajɛ",
+                "future_form": "lajɛ"
+            },
+            "present_participle": [
+                "lajɛtɔ",
+                "lajɛtɔla"
+            ],
+            "past_participle": "lajɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kanu",
+        "meaning": [
+            {
+                "word": "To want",
+                "circonstance": ""
+            },
+            {
+                "word": "To love",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kanu",
+            "transitive": {
+                "past_form": "kanura",
+                "present_form": "kanu",
+                "future_form": "kanu"
+            },
+            "intransitive": {
+                "past_form": "kanura",
+                "present_form": "kanu",
+                "future_form": "kanu"
+            },
+            "present_participle": [
+                "kanutɔ",
+                "kanutɔla"
+            ],
+            "past_participle": "kanulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "baara",
+        "meaning": [
+            {
+                "word": "To work",
+                "circonstance": ""
+            },
+            {
+                "word": "To perform",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka baara",
+            "transitive": {
+                "past_form": "baarara",
+                "present_form": "baara",
+                "future_form": "baara"
+            },
+            "intransitive": {
+                "past_form": "baarara",
+                "present_form": "baara",
+                "future_form": "baara"
+            },
+            "present_participle": [
+                "baaratɔ",
+                "baaratɔla"
+            ],
+            "past_participle": "baaralen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "di",
+        "meaning": [
+            {
+                "word": "To give",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka di",
+            "transitive": {
+                "past_form": "dira",
+                "present_form": "di",
+                "future_form": "di"
+            },
+            "intransitive": {
+                "past_form": "dira",
+                "present_form": "di",
+                "future_form": "di"
+            },
+            "present_participle": [
+                "ditɔ",
+                "ditɔla"
+            ],
+            "past_participle": "dilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ladi",
+        "meaning": [
+            {
+                "word": "To advise",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ladi",
+            "transitive": {
+                "past_form": "ladira",
+                "present_form": "ladi",
+                "future_form": "ladi"
+            },
+            "intransitive": {
+                "past_form": "ladira",
+                "present_form": "ladi",
+                "future_form": "ladi"
+            },
+            "present_participle": [
+                "laditɔ",
+                "laditɔla"
+            ],
+            "past_participle": "ladilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "wele",
+        "meaning": [
+            {
+                "word": "To call",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka wele",
+            "transitive": {
+                "past_form": "welela",
+                "present_form": "wele",
+                "future_form": "wele"
+            },
+            "intransitive": {
+                "past_form": "welela",
+                "present_form": "wele",
+                "future_form": "wele"
+            },
+            "present_participle": [
+                "weletɔ",
+                "weletɔla"
+            ],
+            "past_participle": "welelen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲininka",
+        "meaning": [
+            {
+                "word": "To ask",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲininka",
+            "transitive": {
+                "past_form": "ɲininkara",
+                "present_form": "ɲininka",
+                "future_form": "ɲininka"
+            },
+            "intransitive": {
+                "past_form": "ɲininkara",
+                "present_form": "ɲininka",
+                "future_form": "ɲininka"
+            },
+            "present_participle": [
+                "ɲininkatɔ",
+                "ɲininkatɔla"
+            ],
+            "past_participle": "ɲininkalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲini",
+        "meaning": [
+            {
+                "word": "To search",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲini",
+            "transitive": {
+                "past_form": "ɲinira",
+                "present_form": "ɲini",
+                "future_form": "ɲini"
+            },
+            "intransitive": {
+                "past_form": "ɲinira",
+                "present_form": "ɲini",
+                "future_form": "ɲini"
+            },
+            "present_participle": [
+                "ɲinitɔ",
+                "ɲinitɔla"
+            ],
+            "past_participle": "ɲinilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "mara",
+        "meaning": [
+            {
+                "word": "To keep",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka mara",
+            "transitive": {
+                "past_form": "marara",
+                "present_form": "mara",
+                "future_form": "mara"
+            },
+            "intransitive": {
+                "past_form": "marara",
+                "present_form": "mara",
+                "future_form": "mara"
+            },
+            "present_participle": [
+                "maratɔ",
+                "maratɔla"
+            ],
+            "past_participle": "maralen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jira",
+        "meaning": [
+            {
+                "word": "To reveal",
+                "circonstance": ""
+            },
+            {
+                "word": "To show",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jira",
+            "transitive": {
+                "past_form": "jirara",
+                "present_form": "jira",
+                "future_form": "jira"
+            },
+            "intransitive": {
+                "past_form": "jirara",
+                "present_form": "jira",
+                "future_form": "jira"
+            },
+            "present_participle": [
+                "jiratɔ",
+                "jiratɔla"
+            ],
+            "past_participle": "jiralen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "diya",
+        "meaning": [
+            {
+                "word": "To make nice",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka diya",
+            "transitive": {
+                "past_form": "diyara",
+                "present_form": "diya",
+                "future_form": "diya"
+            },
+            "intransitive": {
+                "past_form": "diyara",
+                "present_form": "diya",
+                "future_form": "diya"
+            },
+            "present_participle": [
+                "diyatɔ",
+                "diyatɔla"
+            ],
+            "past_participle": "diyalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "minɛ",
+        "meaning": [
+            {
+                "word": "To catch",
+                "circonstance": ""
+            },
+            {
+                "word": "To take",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka minɛ",
+            "transitive": {
+                "past_form": "minɛra",
+                "present_form": "minɛ",
+                "future_form": "minɛ"
+            },
+            "intransitive": {
+                "past_form": "minɛra",
+                "present_form": "minɛ",
+                "future_form": "minɛ"
+            },
+            "present_participle": [
+                "minɛtɔ",
+                "minɛtɔla"
+            ],
+            "past_participle": "minɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "wuli",
+        "meaning": [
+            {
+                "word": "To awake",
+                "circonstance": ""
+            },
+            {
+                "word": "To boil",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka wuli",
+            "transitive": {
+                "past_form": "wulila",
+                "present_form": "wuli",
+                "future_form": "wuli"
+            },
+            "intransitive": {
+                "past_form": "wulila",
+                "present_form": "wuli",
+                "future_form": "wuli"
+            },
+            "present_participle": [
+                "wulitɔ",
+                "wulitɔla"
+            ],
+            "past_participle": "wulilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bila",
+        "meaning": [
+            {
+                "word": "To leave",
+                "circonstance": ""
+            },
+            {
+                "word": "To leave",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bila",
+            "transitive": {
+                "past_form": "bilala",
+                "present_form": "bila",
+                "future_form": "bila"
+            },
+            "intransitive": {
+                "past_form": "bilala",
+                "present_form": "bila",
+                "future_form": "bila"
+            },
+            "present_participle": [
+                "bilatɔ",
+                "bilatɔla"
+            ],
+            "past_participle": "bilalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sɛbɛn",
+        "meaning": [
+            {
+                "word": "To write",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sɛbɛn",
+            "transitive": {
+                "past_form": "sɛbɛnna",
+                "present_form": "sɛbɛn",
+                "future_form": "sɛbɛn"
+            },
+            "intransitive": {
+                "past_form": "sɛbɛnna",
+                "present_form": "sɛbɛn",
+                "future_form": "sɛbɛn"
+            },
+            "present_participle": [
+                "sɛbɛntɔ",
+                "sɛbɛntɔla"
+            ],
+            "past_participle": "sɛbɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɔnɔ",
+        "meaning": [
+            {
+                "word": "To wait",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɔnɔ",
+            "transitive": {
+                "past_form": "kɔnɔra",
+                "present_form": "kɔnɔ",
+                "future_form": "kɔnɔ"
+            },
+            "intransitive": {
+                "past_form": "kɔnɔra",
+                "present_form": "kɔnɔ",
+                "future_form": "kɔnɔ"
+            },
+            "present_participle": [
+                "kɔnɔtɔ",
+                "kɔnɔtɔla"
+            ],
+            "past_participle": "kɔnɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "to",
+        "meaning": [
+            {
+                "word": "To stay",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka to",
+            "transitive": {
+                "past_form": "tora",
+                "present_form": "to",
+                "future_form": "to"
+            },
+            "intransitive": {
+                "past_form": "tora",
+                "present_form": "to",
+                "future_form": "to"
+            },
+            "present_participle": [
+                "totɔ",
+                "totɔla"
+            ],
+            "past_participle": "tolen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɔlɔsi",
+        "meaning": [
+            {
+                "word": "To guard",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɔlɔsi",
+            "transitive": {
+                "past_form": "kɔlɔsira",
+                "present_form": "kɔlɔsi",
+                "future_form": "kɔlɔsi"
+            },
+            "intransitive": {
+                "past_form": "kɔlɔsira",
+                "present_form": "kɔlɔsi",
+                "future_form": "kɔlɔsi"
+            },
+            "present_participle": [
+                "kɔlɔsitɔ",
+                "kɔlɔsitɔla"
+            ],
+            "past_participle": "kɔlɔsilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɔrɔbɔ",
+        "meaning": [
+            {
+                "word": "To try",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɔrɔbɔ",
+            "transitive": {
+                "past_form": "kɔrɔbɔra",
+                "present_form": "kɔrɔbɔ",
+                "future_form": "kɔrɔbɔ"
+            },
+            "intransitive": {
+                "past_form": "kɔrɔbɔra",
+                "present_form": "kɔrɔbɔ",
+                "future_form": "kɔrɔbɔ"
+            },
+            "present_participle": [
+                "kɔrɔbɔtɔ",
+                "kɔrɔbɔtɔla"
+            ],
+            "past_participle": "kɔrɔbɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dabila",
+        "meaning": [
+            {
+                "word": "To stop",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dabila",
+            "transitive": {
+                "past_form": "dabilala",
+                "present_form": "dabila",
+                "future_form": "dabila"
+            },
+            "intransitive": {
+                "past_form": "dabilala",
+                "present_form": "dabila",
+                "future_form": "dabila"
+            },
+            "present_participle": [
+                "dabilatɔ",
+                "dabilatɔla"
+            ],
+            "past_participle": "dabilalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "san",
+        "meaning": [
+            {
+                "word": "To purchase",
+                "circonstance": ""
+            },
+            {
+                "word": "To buy",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka san",
+            "transitive": {
+                "past_form": "sanna",
+                "present_form": "san",
+                "future_form": "san"
+            },
+            "intransitive": {
+                "past_form": "sanna",
+                "present_form": "san",
+                "future_form": "san"
+            },
+            "present_participle": [
+                "santɔ",
+                "santɔla"
+            ],
+            "past_participle": "sanlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tigɛ",
+        "meaning": [
+            {
+                "word": "To cut",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tigɛ",
+            "transitive": {
+                "past_form": "tigɛra",
+                "present_form": "tigɛ",
+                "future_form": "tigɛ"
+            },
+            "intransitive": {
+                "past_form": "tigɛra",
+                "present_form": "tigɛ",
+                "future_form": "tigɛ"
+            },
+            "present_participle": [
+                "tigɛtɔ",
+                "tigɛtɔla"
+            ],
+            "past_participle": "tigɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "latigɛ",
+        "meaning": [
+            {
+                "word": "To decide",
+                "circonstance": ""
+            },
+            {
+                "word": "To destinate",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka latigɛ",
+            "transitive": {
+                "past_form": "latigɛra",
+                "present_form": "latigɛ",
+                "future_form": "latigɛ"
+            },
+            "intransitive": {
+                "past_form": "latigɛra",
+                "present_form": "latigɛ",
+                "future_form": "latigɛ"
+            },
+            "present_participle": [
+                "latigɛtɔ",
+                "latigɛtɔla"
+            ],
+            "past_participle": "latigɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sama",
+        "meaning": [
+            {
+                "word": "To pull",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sama",
+            "transitive": {
+                "past_form": "samara",
+                "present_form": "sama",
+                "future_form": "sama"
+            },
+            "intransitive": {
+                "past_form": "samara",
+                "present_form": "sama",
+                "future_form": "sama"
+            },
+            "present_participle": [
+                "samatɔ",
+                "samatɔla"
+            ],
+            "past_participle": "samalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dun",
+        "meaning": [
+            {
+                "word": "To eat",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dun",
+            "transitive": {
+                "past_form": "dunna",
+                "present_form": "dun",
+                "future_form": "dun"
+            },
+            "intransitive": {
+                "past_form": "dunna",
+                "present_form": "dun",
+                "future_form": "dun"
+            },
+            "present_participle": [
+                "duntɔ",
+                "duntɔla"
+            ],
+            "past_participle": "dunlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "daminɛ",
+        "meaning": [
+            {
+                "word": "To begin",
+                "circonstance": ""
+            },
+            {
+                "word": "To shut up",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka daminɛ",
+            "transitive": {
+                "past_form": "daminɛra",
+                "present_form": "daminɛ",
+                "future_form": "daminɛ"
+            },
+            "intransitive": {
+                "past_form": "daminɛra",
+                "present_form": "daminɛ",
+                "future_form": "daminɛ"
+            },
+            "present_participle": [
+                "daminɛtɔ",
+                "daminɛtɔla"
+            ],
+            "past_participle": "daminɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "minɛ",
+        "meaning": [
+            {
+                "word": "To catch",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka minɛ",
+            "transitive": {
+                "past_form": "minɛra",
+                "present_form": "minɛ",
+                "future_form": "minɛ"
+            },
+            "intransitive": {
+                "past_form": "minɛra",
+                "present_form": "minɛ",
+                "future_form": "minɛ"
+            },
+            "present_participle": [
+                "minɛtɔ",
+                "minɛtɔla"
+            ],
+            "past_participle": "minɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "lamiɛ",
+        "meaning": [
+            {
+                "word": "To respond",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka lamiɛ",
+            "transitive": {
+                "past_form": "lamiɛra",
+                "present_form": "lamiɛ",
+                "future_form": "lamiɛ"
+            },
+            "intransitive": {
+                "past_form": "lamiɛra",
+                "present_form": "lamiɛ",
+                "future_form": "lamiɛ"
+            },
+            "present_participle": [
+                "lamiɛtɔ",
+                "lamiɛtɔla"
+            ],
+            "past_participle": "lamiɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sara",
+        "meaning": [
+            {
+                "word": "To pay",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sara",
+            "transitive": {
+                "past_form": "sarara",
+                "present_form": "sara",
+                "future_form": "sara"
+            },
+            "intransitive": {
+                "past_form": "sarara",
+                "present_form": "sara",
+                "future_form": "sara"
+            },
+            "present_participle": [
+                "saratɔ",
+                "saratɔla"
+            ],
+            "past_participle": "saralen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jate",
+        "meaning": [
+            {
+                "word": "To count",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jate",
+            "transitive": {
+                "past_form": "jatera",
+                "present_form": "jate",
+                "future_form": "jate"
+            },
+            "intransitive": {
+                "past_form": "jatera",
+                "present_form": "jate",
+                "future_form": "jate"
+            },
+            "present_participle": [
+                "jatetɔ",
+                "jatetɔla"
+            ],
+            "past_participle": "jatelen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kalan",
+        "meaning": [
+            {
+                "word": "To change",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kalan",
+            "transitive": {
+                "past_form": "kalanna",
+                "present_form": "kalan",
+                "future_form": "kalan"
+            },
+            "intransitive": {
+                "past_form": "kalanna",
+                "present_form": "kalan",
+                "future_form": "kalan"
+            },
+            "present_participle": [
+                "kalantɔ",
+                "kalantɔla"
+            ],
+            "past_participle": "kalanlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yɛlɛma",
+        "meaning": [
+            {
+                "word": "To To change",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yɛlɛma",
+            "transitive": {
+                "past_form": "yɛlɛmara",
+                "present_form": "yɛlɛma",
+                "future_form": "yɛlɛma"
+            },
+            "intransitive": {
+                "past_form": "yɛlɛmara",
+                "present_form": "yɛlɛma",
+                "future_form": "yɛlɛma"
+            },
+            "present_participle": [
+                "yɛlɛmatɔ",
+                "yɛlɛmatɔla"
+            ],
+            "past_participle": "yɛlɛmalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "filɛ",
+        "meaning": [
+            {
+                "word": "To look",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka filɛ",
+            "transitive": {
+                "past_form": "filɛla",
+                "present_form": "filɛ",
+                "future_form": "filɛ"
+            },
+            "intransitive": {
+                "past_form": "filɛla",
+                "present_form": "filɛ",
+                "future_form": "filɛ"
+            },
+            "present_participle": [
+                "filɛtɔ",
+                "filɛtɔla"
+            ],
+            "past_participle": "filɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "lamɔ",
+        "meaning": [
+            {
+                "word": "To leather",
+                "circonstance": ""
+            },
+            {
+                "word": "To educate",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka lamɔ",
+            "transitive": {
+                "past_form": "lamɔra",
+                "present_form": "lamɔ",
+                "future_form": "lamɔ"
+            },
+            "intransitive": {
+                "past_form": "lamɔra",
+                "present_form": "lamɔ",
+                "future_form": "lamɔ"
+            },
+            "present_participle": [
+                "lamɔtɔ",
+                "lamɔtɔla"
+            ],
+            "past_participle": "lamɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "feere",
+        "meaning": [
+            {
+                "word": "To sell",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka feere",
+            "transitive": {
+                "past_form": "feerera",
+                "present_form": "feere",
+                "future_form": "feere"
+            },
+            "intransitive": {
+                "past_form": "feerera",
+                "present_form": "feere",
+                "future_form": "feere"
+            },
+            "present_participle": [
+                "feeretɔ",
+                "feeretɔla"
+            ],
+            "past_participle": "feerelen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dɔn",
+        "meaning": [
+            {
+                "word": "To Know",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dɔn",
+            "transitive": {
+                "past_form": "dɔnna",
+                "present_form": "dɔn",
+                "future_form": "dɔn"
+            },
+            "intransitive": {
+                "past_form": "dɔnna",
+                "present_form": "dɔn",
+                "future_form": "dɔn"
+            },
+            "present_participle": [
+                "dɔntɔ",
+                "dɔntɔla"
+            ],
+            "past_participle": "dɔnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tugu",
+        "meaning": [
+            {
+                "word": "To follow",
+                "circonstance": ""
+            },
+            {
+                "word": "To close",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tugu",
+            "transitive": {
+                "past_form": "tugura",
+                "present_form": "tugu",
+                "future_form": "tugu"
+            },
+            "intransitive": {
+                "past_form": "tugura",
+                "present_form": "tugu",
+                "future_form": "tugu"
+            },
+            "present_participle": [
+                "tugutɔ",
+                "tugutɔla"
+            ],
+            "past_participle": "tugulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dilan",
+        "meaning": [
+            {
+                "word": "To create",
+                "circonstance": ""
+            },
+            {
+                "word": "To repair",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dilan",
+            "transitive": {
+                "past_form": "dilanna",
+                "present_form": "dilan",
+                "future_form": "dilan"
+            },
+            "intransitive": {
+                "past_form": "dilanna",
+                "present_form": "dilan",
+                "future_form": "dilan"
+            },
+            "present_participle": [
+                "dilantɔ",
+                "dilantɔla"
+            ],
+            "past_participle": "dilanlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲɛ",
+        "meaning": [
+            {
+                "word": "To be nice",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲɛ",
+            "transitive": {
+                "past_form": "ɲɛra",
+                "present_form": "ɲɛ",
+                "future_form": "ɲɛ"
+            },
+            "intransitive": {
+                "past_form": "ɲɛra",
+                "present_form": "ɲɛ",
+                "future_form": "ɲɛ"
+            },
+            "present_participle": [
+                "ɲɛtɔ",
+                "ɲɛtɔla"
+            ],
+            "past_participle": "ɲɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tiɲɛ",
+        "meaning": [
+            {
+                "word": "To waste",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tiɲɛ",
+            "transitive": {
+                "past_form": "tiɲɛra",
+                "present_form": "tiɲɛ",
+                "future_form": "tiɲɛ"
+            },
+            "intransitive": {
+                "past_form": "tiɲɛra",
+                "present_form": "tiɲɛ",
+                "future_form": "tiɲɛ"
+            },
+            "present_participle": [
+                "tiɲɛtɔ",
+                "tiɲɛtɔla"
+            ],
+            "past_participle": "tiɲɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "pɛrɛn",
+        "meaning": [
+            {
+                "word": "To burst",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka pɛrɛn",
+            "transitive": {
+                "past_form": "pɛrɛnna",
+                "present_form": "pɛrɛn",
+                "future_form": "pɛrɛn"
+            },
+            "intransitive": {
+                "past_form": "pɛrɛnna",
+                "present_form": "pɛrɛn",
+                "future_form": "pɛrɛn"
+            },
+            "present_participle": [
+                "pɛrɛntɔ",
+                "pɛrɛntɔla"
+            ],
+            "past_participle": "pɛrɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dɛmɛ",
+        "meaning": [
+            {
+                "word": "To help",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dɛmɛ",
+            "transitive": {
+                "past_form": "dɛmɛra",
+                "present_form": "dɛmɛ",
+                "future_form": "dɛmɛ"
+            },
+            "intransitive": {
+                "past_form": "dɛmɛra",
+                "present_form": "dɛmɛ",
+                "future_form": "dɛmɛ"
+            },
+            "present_participle": [
+                "dɛmɛtɔ",
+                "dɛmɛtɔla"
+            ],
+            "past_participle": "dɛmɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bɔnɛ",
+        "meaning": [
+            {
+                "word": "To lose",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bɔnɛ",
+            "transitive": {
+                "past_form": "bɔnɛra",
+                "present_form": "bɔnɛ",
+                "future_form": "bɔnɛ"
+            },
+            "intransitive": {
+                "past_form": "bɔnɛra",
+                "present_form": "bɔnɛ",
+                "future_form": "bɔnɛ"
+            },
+            "present_participle": [
+                "bɔnɛtɔ",
+                "bɔnɛtɔla"
+            ],
+            "past_participle": "bɔnɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "deli",
+        "meaning": [
+            {
+                "word": "To seek",
+                "circonstance": ""
+            },
+            {
+                "word": "To pray",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka deli",
+            "transitive": {
+                "past_form": "delila",
+                "present_form": "deli",
+                "future_form": "deli"
+            },
+            "intransitive": {
+                "past_form": "delila",
+                "present_form": "deli",
+                "future_form": "deli"
+            },
+            "present_participle": [
+                "delitɔ",
+                "delitɔla"
+            ],
+            "past_participle": "delilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "faga",
+        "meaning": [
+            {
+                "word": "To extinct",
+                "circonstance": ""
+            },
+            {
+                "word": "To kill",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka faga",
+            "transitive": {
+                "past_form": "fagara",
+                "present_form": "faga",
+                "future_form": "faga"
+            },
+            "intransitive": {
+                "past_form": "fagara",
+                "present_form": "faga",
+                "future_form": "faga"
+            },
+            "present_participle": [
+                "fagatɔ",
+                "fagatɔla"
+            ],
+            "past_participle": "fagalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bon",
+        "meaning": [
+            {
+                "word": "To flow",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bon",
+            "transitive": {
+                "past_form": "bonna",
+                "present_form": "bon",
+                "future_form": "bon"
+            },
+            "intransitive": {
+                "past_form": "bonna",
+                "present_form": "bon",
+                "future_form": "bon"
+            },
+            "present_participle": [
+                "bontɔ",
+                "bontɔla"
+            ],
+            "past_participle": "bonlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dun",
+        "meaning": [
+            {
+                "word": "To eat",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dun",
+            "transitive": {
+                "past_form": "dunna",
+                "present_form": "dun",
+                "future_form": "dun"
+            },
+            "intransitive": {
+                "past_form": "dunna",
+                "present_form": "dun",
+                "future_form": "dun"
+            },
+            "present_participle": [
+                "duntɔ",
+                "duntɔla"
+            ],
+            "past_participle": "dunlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "min",
+        "meaning": [
+            {
+                "word": "To drink",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka min",
+            "transitive": {
+                "past_form": "minna",
+                "present_form": "min",
+                "future_form": "min"
+            },
+            "intransitive": {
+                "past_form": "minna",
+                "present_form": "min",
+                "future_form": "min"
+            },
+            "present_participle": [
+                "mintɔ",
+                "mintɔla"
+            ],
+            "past_participle": "minlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "lamɛn",
+        "meaning": [
+            {
+                "word": "To listen",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka lamɛn",
+            "transitive": {
+                "past_form": "lamɛnna",
+                "present_form": "lamɛn",
+                "future_form": "lamɛn"
+            },
+            "intransitive": {
+                "past_form": "lamɛnna",
+                "present_form": "lamɛn",
+                "future_form": "lamɛn"
+            },
+            "present_participle": [
+                "lamɛntɔ",
+                "lamɛntɔla"
+            ],
+            "past_participle": "lamɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kari",
+        "meaning": [
+            {
+                "word": "To break",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kari",
+            "transitive": {
+                "past_form": "karira",
+                "present_form": "kari",
+                "future_form": "kari"
+            },
+            "intransitive": {
+                "past_form": "karira",
+                "present_form": "kari",
+                "future_form": "kari"
+            },
+            "present_participle": [
+                "karitɔ",
+                "karitɔla"
+            ],
+            "past_participle": "karilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "digi",
+        "meaning": [
+            {
+                "word": "To press",
+                "circonstance": ""
+            },
+            {
+                "word": "push",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka digi",
+            "transitive": {
+                "past_form": "digira",
+                "present_form": "digi",
+                "future_form": "digi"
+            },
+            "intransitive": {
+                "past_form": "digira",
+                "present_form": "digi",
+                "future_form": "digi"
+            },
+            "present_participle": [
+                "digitɔ",
+                "digitɔla"
+            ],
+            "past_participle": "digilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲɔni",
+        "meaning": [
+            {
+                "word": "To push",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲɔni",
+            "transitive": {
+                "past_form": "ɲɔnira",
+                "present_form": "ɲɔni",
+                "future_form": "ɲɔni"
+            },
+            "intransitive": {
+                "past_form": "ɲɔnira",
+                "present_form": "ɲɔni",
+                "future_form": "ɲɔni"
+            },
+            "present_participle": [
+                "ɲɔnitɔ",
+                "ɲɔnitɔla"
+            ],
+            "past_participle": "ɲɔnilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "fin",
+        "meaning": [
+            {
+                "word": "To blacken",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka fin",
+            "transitive": {
+                "past_form": "finna",
+                "present_form": "fin",
+                "future_form": "fin"
+            },
+            "intransitive": {
+                "past_form": "finna",
+                "present_form": "fin",
+                "future_form": "fin"
+            },
+            "present_participle": [
+                "fintɔ",
+                "fintɔla"
+            ],
+            "past_participle": "finlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jɛ",
+        "meaning": [
+            {
+                "word": "To whiten",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jɛ",
+            "transitive": {
+                "past_form": "jɛra",
+                "present_form": "jɛ",
+                "future_form": "jɛ"
+            },
+            "intransitive": {
+                "past_form": "jɛra",
+                "present_form": "jɛ",
+                "future_form": "jɛ"
+            },
+            "present_participle": [
+                "jɛtɔ",
+                "jɛtɔla"
+            ],
+            "past_participle": "jɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tobi",
+        "meaning": [
+            {
+                "word": "To coock",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tobi",
+            "transitive": {
+                "past_form": "tobira",
+                "present_form": "tobi",
+                "future_form": "tobi"
+            },
+            "intransitive": {
+                "past_form": "tobira",
+                "present_form": "tobi",
+                "future_form": "tobi"
+            },
+            "present_participle": [
+                "tobitɔ",
+                "tobitɔla"
+            ],
+            "past_participle": "tobilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dosi",
+        "meaning": [
+            {
+                "word": "To wipe",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dosi",
+            "transitive": {
+                "past_form": "dosira",
+                "present_form": "dosi",
+                "future_form": "dosi"
+            },
+            "intransitive": {
+                "past_form": "dosira",
+                "present_form": "dosi",
+                "future_form": "dosi"
+            },
+            "present_participle": [
+                "dositɔ",
+                "dositɔla"
+            ],
+            "past_participle": "dosilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ko",
+        "meaning": [
+            {
+                "word": "To wash",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ko",
+            "transitive": {
+                "past_form": "kora",
+                "present_form": "ko",
+                "future_form": "ko"
+            },
+            "intransitive": {
+                "past_form": "kora",
+                "present_form": "ko",
+                "future_form": "ko"
+            },
+            "present_participle": [
+                "kotɔ",
+                "kotɔla"
+            ],
+            "past_participle": "kolen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "cɛ",
+        "meaning": [
+            {
+                "word": "To collect",
+                "circonstance": ""
+            },
+            {
+                "word": "To pick up",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka cɛ",
+            "transitive": {
+                "past_form": "cɛra",
+                "present_form": "cɛ",
+                "future_form": "cɛ"
+            },
+            "intransitive": {
+                "past_form": "cɛra",
+                "present_form": "cɛ",
+                "future_form": "cɛ"
+            },
+            "present_participle": [
+                "cɛtɔ",
+                "cɛtɔla"
+            ],
+            "past_participle": "cɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "tɔmɔ",
+        "meaning": [
+            {
+                "word": "To pick up",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka tɔmɔ",
+            "transitive": {
+                "past_form": "tɔmɔra",
+                "present_form": "tɔmɔ",
+                "future_form": "tɔmɔ"
+            },
+            "intransitive": {
+                "past_form": "tɔmɔra",
+                "present_form": "tɔmɔ",
+                "future_form": "tɔmɔ"
+            },
+            "present_participle": [
+                "tɔmɔtɔ",
+                "tɔmɔtɔla"
+            ],
+            "past_participle": "tɔmɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "furan",
+        "meaning": [
+            {
+                "word": "To sweep",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka furan",
+            "transitive": {
+                "past_form": "furanna",
+                "present_form": "furan",
+                "future_form": "furan"
+            },
+            "intransitive": {
+                "past_form": "furanna",
+                "present_form": "furan",
+                "future_form": "furan"
+            },
+            "present_participle": [
+                "furantɔ",
+                "furantɔla"
+            ],
+            "past_participle": "furanlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bato",
+        "meaning": [
+            {
+                "word": "To worship",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bato",
+            "transitive": {
+                "past_form": "batora",
+                "present_form": "bato",
+                "future_form": "bato"
+            },
+            "intransitive": {
+                "past_form": "batora",
+                "present_form": "bato",
+                "future_form": "bato"
+            },
+            "present_participle": [
+                "batotɔ",
+                "batotɔla"
+            ],
+            "past_participle": "batolen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲimi",
+        "meaning": [
+            {
+                "word": "To chew",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲimi",
+            "transitive": {
+                "past_form": "ɲimira",
+                "present_form": "ɲimi",
+                "future_form": "ɲimi"
+            },
+            "intransitive": {
+                "past_form": "ɲimira",
+                "present_form": "ɲimi",
+                "future_form": "ɲimi"
+            },
+            "present_participle": [
+                "ɲimitɔ",
+                "ɲimitɔla"
+            ],
+            "past_participle": "ɲimilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kunu",
+        "meaning": [
+            {
+                "word": "To shallow",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kunu",
+            "transitive": {
+                "past_form": "kunura",
+                "present_form": "kunu",
+                "future_form": "kunu"
+            },
+            "intransitive": {
+                "past_form": "kunura",
+                "present_form": "kunu",
+                "future_form": "kunu"
+            },
+            "present_participle": [
+                "kunutɔ",
+                "kunutɔla"
+            ],
+            "past_participle": "kunulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bagabag",
+        "meaning": [
+            {
+                "word": "To threaten",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bagabag",
+            "transitive": {
+                "past_form": "bagabagra",
+                "present_form": "bagabag",
+                "future_form": "bagabag"
+            },
+            "intransitive": {
+                "past_form": "bagabagra",
+                "present_form": "bagabag",
+                "future_form": "bagabag"
+            },
+            "present_participle": [
+                "bagabagtɔ",
+                "bagabagtɔla"
+            ],
+            "past_participle": "bagabaglen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "waju",
+        "meaning": [
+            {
+                "word": "To advise",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka waju",
+            "transitive": {
+                "past_form": "wajura",
+                "present_form": "waju",
+                "future_form": "waju"
+            },
+            "intransitive": {
+                "past_form": "wajura",
+                "present_form": "waju",
+                "future_form": "waju"
+            },
+            "present_participle": [
+                "wajutɔ",
+                "wajutɔla"
+            ],
+            "past_participle": "wajulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bilasira",
+        "meaning": [
+            {
+                "word": "To guide",
+                "circonstance": ""
+            },
+            {
+                "word": "To accompany",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bilasira",
+            "transitive": {
+                "past_form": "bilasirara",
+                "present_form": "bilasira",
+                "future_form": "bilasira"
+            },
+            "intransitive": {
+                "past_form": "bilasirara",
+                "present_form": "bilasira",
+                "future_form": "bilasira"
+            },
+            "present_participle": [
+                "bilasiratɔ",
+                "bilasiratɔla"
+            ],
+            "past_participle": "bilasiralen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "muɲu",
+        "meaning": [
+            {
+                "word": "To be patient",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka muɲu",
+            "transitive": {
+                "past_form": "muɲura",
+                "present_form": "muɲu",
+                "future_form": "muɲu"
+            },
+            "intransitive": {
+                "past_form": "muɲura",
+                "present_form": "muɲu",
+                "future_form": "muɲu"
+            },
+            "present_participle": [
+                "muɲutɔ",
+                "muɲutɔla"
+            ],
+            "past_participle": "muɲulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲagami",
+        "meaning": [
+            {
+                "word": "To mix",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲagami",
+            "transitive": {
+                "past_form": "ɲagamira",
+                "present_form": "ɲagami",
+                "future_form": "ɲagami"
+            },
+            "intransitive": {
+                "past_form": "ɲagamira",
+                "present_form": "ɲagami",
+                "future_form": "ɲagami"
+            },
+            "present_participle": [
+                "ɲagamitɔ",
+                "ɲagamitɔla"
+            ],
+            "past_participle": "ɲagamilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲɛfɔ",
+        "meaning": [
+            {
+                "word": "To explain",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲɛfɔ",
+            "transitive": {
+                "past_form": "ɲɛfɔra",
+                "present_form": "ɲɛfɔ",
+                "future_form": "ɲɛfɔ"
+            },
+            "intransitive": {
+                "past_form": "ɲɛfɔra",
+                "present_form": "ɲɛfɔ",
+                "future_form": "ɲɛfɔ"
+            },
+            "present_participle": [
+                "ɲɛfɔtɔ",
+                "ɲɛfɔtɔla"
+            ],
+            "past_participle": "ɲɛfɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kibaru",
+        "meaning": [
+            {
+                "word": "To inform",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kibaru",
+            "transitive": {
+                "past_form": "kibarura",
+                "present_form": "kibaru",
+                "future_form": "kibaru"
+            },
+            "intransitive": {
+                "past_form": "kibarura",
+                "present_form": "kibaru",
+                "future_form": "kibaru"
+            },
+            "present_participle": [
+                "kibarutɔ",
+                "kibarutɔla"
+            ],
+            "past_participle": "kibarulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jinsɛn",
+        "meaning": [
+            {
+                "word": "To scatter",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jinsɛn",
+            "transitive": {
+                "past_form": "jinsɛnna",
+                "present_form": "jinsɛn",
+                "future_form": "jinsɛn"
+            },
+            "intransitive": {
+                "past_form": "jinsɛnna",
+                "present_form": "jinsɛn",
+                "future_form": "jinsɛn"
+            },
+            "present_participle": [
+                "jinsɛntɔ",
+                "jinsɛntɔla"
+            ],
+            "past_participle": "jinsɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bange",
+        "meaning": [
+            {
+                "word": "To be born",
+                "circonstance": ""
+            },
+            {
+                "word": "To expose",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bange",
+            "transitive": {
+                "past_form": "bangera",
+                "present_form": "bange",
+                "future_form": "bange"
+            },
+            "intransitive": {
+                "past_form": "bangera",
+                "present_form": "bange",
+                "future_form": "bange"
+            },
+            "present_participle": [
+                "bangetɔ",
+                "bangetɔla"
+            ],
+            "past_participle": "bangelen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "gɔlɔn",
+        "meaning": [
+            {
+                "word": "To bend",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka gɔlɔn",
+            "transitive": {
+                "past_form": "gɔlɔnna",
+                "present_form": "gɔlɔn",
+                "future_form": "gɔlɔn"
+            },
+            "intransitive": {
+                "past_form": "gɔlɔnna",
+                "present_form": "gɔlɔn",
+                "future_form": "gɔlɔn"
+            },
+            "present_participle": [
+                "gɔlɔntɔ",
+                "gɔlɔntɔla"
+            ],
+            "past_participle": "gɔlɔnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "siri",
+        "meaning": [
+            {
+                "word": "To tie",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka siri",
+            "transitive": {
+                "past_form": "sirira",
+                "present_form": "siri",
+                "future_form": "siri"
+            },
+            "intransitive": {
+                "past_form": "sirira",
+                "present_form": "siri",
+                "future_form": "siri"
+            },
+            "present_participle": [
+                "siritɔ",
+                "siritɔla"
+            ],
+            "past_participle": "sirilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "fiyɛ",
+        "meaning": [
+            {
+                "word": "To blow",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka fiyɛ",
+            "transitive": {
+                "past_form": "fiyɛra",
+                "present_form": "fiyɛ",
+                "future_form": "fiyɛ"
+            },
+            "intransitive": {
+                "past_form": "fiyɛra",
+                "present_form": "fiyɛ",
+                "future_form": "fiyɛ"
+            },
+            "present_participle": [
+                "fiyɛtɔ",
+                "fiyɛtɔla"
+            ],
+            "past_participle": "fiyɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jeni",
+        "meaning": [
+            {
+                "word": "To burn",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jeni",
+            "transitive": {
+                "past_form": "jenira",
+                "present_form": "jeni",
+                "future_form": "jeni"
+            },
+            "intransitive": {
+                "past_form": "jenira",
+                "present_form": "jeni",
+                "future_form": "jeni"
+            },
+            "present_participle": [
+                "jenitɔ",
+                "jenitɔla"
+            ],
+            "past_participle": "jenilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "fili",
+        "meaning": [
+            {
+                "word": "To cast",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka fili",
+            "transitive": {
+                "past_form": "filila",
+                "present_form": "fili",
+                "future_form": "fili"
+            },
+            "intransitive": {
+                "past_form": "filila",
+                "present_form": "fili",
+                "future_form": "fili"
+            },
+            "present_participle": [
+                "filitɔ",
+                "filitɔla"
+            ],
+            "past_participle": "fililen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɔrɔfɔ",
+        "meaning": [
+            {
+                "word": "To talk behind",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɔrɔfɔ",
+            "transitive": {
+                "past_form": "kɔrɔfɔra",
+                "present_form": "kɔrɔfɔ",
+                "future_form": "kɔrɔfɔ"
+            },
+            "intransitive": {
+                "past_form": "kɔrɔfɔra",
+                "present_form": "kɔrɔfɔ",
+                "future_form": "kɔrɔfɔ"
+            },
+            "present_participle": [
+                "kɔrɔfɔtɔ",
+                "kɔrɔfɔtɔla"
+            ],
+            "past_participle": "kɔrɔfɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sɔgɔ",
+        "meaning": [
+            {
+                "word": "Hole",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sɔgɔ",
+            "transitive": {
+                "past_form": "sɔgɔra",
+                "present_form": "sɔgɔ",
+                "future_form": "sɔgɔ"
+            },
+            "intransitive": {
+                "past_form": "sɔgɔra",
+                "present_form": "sɔgɔ",
+                "future_form": "sɔgɔ"
+            },
+            "present_participle": [
+                "sɔgɔtɔ",
+                "sɔgɔtɔla"
+            ],
+            "past_participle": "sɔgɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "nɔrɔ",
+        "meaning": [
+            {
+                "word": "To stick",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka nɔrɔ",
+            "transitive": {
+                "past_form": "nɔrɔra",
+                "present_form": "nɔrɔ",
+                "future_form": "nɔrɔ"
+            },
+            "intransitive": {
+                "past_form": "nɔrɔra",
+                "present_form": "nɔrɔ",
+                "future_form": "nɔrɔ"
+            },
+            "present_participle": [
+                "nɔrɔtɔ",
+                "nɔrɔtɔla"
+            ],
+            "past_participle": "nɔrɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɛrɛnkɛrɛn",
+        "meaning": [
+            {
+                "word": "To be specific",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɛrɛnkɛrɛn",
+            "transitive": {
+                "past_form": "kɛrɛnkɛrɛnna",
+                "present_form": "kɛrɛnkɛrɛn",
+                "future_form": "kɛrɛnkɛrɛn"
+            },
+            "intransitive": {
+                "past_form": "kɛrɛnkɛrɛnna",
+                "present_form": "kɛrɛnkɛrɛn",
+                "future_form": "kɛrɛnkɛrɛn"
+            },
+            "present_participle": [
+                "kɛrɛnkɛrɛntɔ",
+                "kɛrɛnkɛrɛntɔla"
+            ],
+            "past_participle": "kɛrɛnkɛrɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲɛsin",
+        "meaning": [
+            {
+                "word": "To face",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲɛsin",
+            "transitive": {
+                "past_form": "ɲɛsinna",
+                "present_form": "ɲɛsin",
+                "future_form": "ɲɛsin"
+            },
+            "intransitive": {
+                "past_form": "ɲɛsinna",
+                "present_form": "ɲɛsin",
+                "future_form": "ɲɛsin"
+            },
+            "present_participle": [
+                "ɲɛsintɔ",
+                "ɲɛsintɔla"
+            ],
+            "past_participle": "ɲɛsinlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "nɔbɔ",
+        "meaning": [
+            {
+                "word": "To trace",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka nɔbɔ",
+            "transitive": {
+                "past_form": "nɔbɔra",
+                "present_form": "nɔbɔ",
+                "future_form": "nɔbɔ"
+            },
+            "intransitive": {
+                "past_form": "nɔbɔra",
+                "present_form": "nɔbɔ",
+                "future_form": "nɔbɔ"
+            },
+            "present_participle": [
+                "nɔbɔtɔ",
+                "nɔbɔtɔla"
+            ],
+            "past_participle": "nɔbɔlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "balo",
+        "meaning": [
+            {
+                "word": "To live",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka balo",
+            "transitive": {
+                "past_form": "balola",
+                "present_form": "balo",
+                "future_form": "balo"
+            },
+            "intransitive": {
+                "past_form": "balola",
+                "present_form": "balo",
+                "future_form": "balo"
+            },
+            "present_participle": [
+                "balotɔ",
+                "balotɔla"
+            ],
+            "past_participle": "balolen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "labalo",
+        "meaning": [
+            {
+                "word": "To feed",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka labalo",
+            "transitive": {
+                "past_form": "labalola",
+                "present_form": "labalo",
+                "future_form": "labalo"
+            },
+            "intransitive": {
+                "past_form": "labalola",
+                "present_form": "labalo",
+                "future_form": "labalo"
+            },
+            "present_participle": [
+                "labalotɔ",
+                "labalotɔla"
+            ],
+            "past_participle": "labalolen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sunsun",
+        "meaning": [
+            {
+                "word": "To taste",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sunsun",
+            "transitive": {
+                "past_form": "sunsunna",
+                "present_form": "sunsun",
+                "future_form": "sunsun"
+            },
+            "intransitive": {
+                "past_form": "sunsunna",
+                "present_form": "sunsun",
+                "future_form": "sunsun"
+            },
+            "present_participle": [
+                "sunsuntɔ",
+                "sunsuntɔla"
+            ],
+            "past_participle": "sunsunlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sumsum",
+        "meaning": [
+            {
+                "word": "To smell",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sumsum",
+            "transitive": {
+                "past_form": "sumsumra",
+                "present_form": "sumsum",
+                "future_form": "sumsum"
+            },
+            "intransitive": {
+                "past_form": "sumsumra",
+                "present_form": "sumsum",
+                "future_form": "sumsum"
+            },
+            "present_participle": [
+                "sumsumtɔ",
+                "sumsumtɔla"
+            ],
+            "past_participle": "sumsumlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bali",
+        "meaning": [
+            {
+                "word": "To interrupt",
+                "circonstance": ""
+            },
+            {
+                "word": "to forbide",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bali",
+            "transitive": {
+                "past_form": "balila",
+                "present_form": "bali",
+                "future_form": "bali"
+            },
+            "intransitive": {
+                "past_form": "balila",
+                "present_form": "bali",
+                "future_form": "bali"
+            },
+            "present_participle": [
+                "balitɔ",
+                "balitɔla"
+            ],
+            "past_participle": "balilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sanuya",
+        "meaning": [
+            {
+                "word": "To clean up",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sanuya",
+            "transitive": {
+                "past_form": "sanuyara",
+                "present_form": "sanuya",
+                "future_form": "sanuya"
+            },
+            "intransitive": {
+                "past_form": "sanuyara",
+                "present_form": "sanuya",
+                "future_form": "sanuya"
+            },
+            "present_participle": [
+                "sanuyatɔ",
+                "sanuyatɔla"
+            ],
+            "past_participle": "sanuyalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɔrɔta",
+        "meaning": [
+            {
+                "word": "To raise",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɔrɔta",
+            "transitive": {
+                "past_form": "kɔrɔtara",
+                "present_form": "kɔrɔta",
+                "future_form": "kɔrɔta"
+            },
+            "intransitive": {
+                "past_form": "kɔrɔtara",
+                "present_form": "kɔrɔta",
+                "future_form": "kɔrɔta"
+            },
+            "present_participle": [
+                "kɔrɔtatɔ",
+                "kɔrɔtatɔla"
+            ],
+            "past_participle": "kɔrɔtalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "mɛn",
+        "meaning": [
+            {
+                "word": "To hear",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka mɛn",
+            "transitive": {
+                "past_form": "mɛnna",
+                "present_form": "mɛn",
+                "future_form": "mɛn"
+            },
+            "intransitive": {
+                "past_form": "mɛnna",
+                "present_form": "mɛn",
+                "future_form": "mɛn"
+            },
+            "present_participle": [
+                "mɛntɔ",
+                "mɛntɔla"
+            ],
+            "past_participle": "mɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dulon",
+        "meaning": [
+            {
+                "word": "To hang",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dulon",
+            "transitive": {
+                "past_form": "dulonna",
+                "present_form": "dulon",
+                "future_form": "dulon"
+            },
+            "intransitive": {
+                "past_form": "dulonna",
+                "present_form": "dulon",
+                "future_form": "dulon"
+            },
+            "present_participle": [
+                "dulontɔ",
+                "dulontɔla"
+            ],
+            "past_participle": "dulonlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kuru",
+        "meaning": [
+            {
+                "word": "To fold",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kuru",
+            "transitive": {
+                "past_form": "kurura",
+                "present_form": "kuru",
+                "future_form": "kuru"
+            },
+            "intransitive": {
+                "past_form": "kurura",
+                "present_form": "kuru",
+                "future_form": "kuru"
+            },
+            "present_participle": [
+                "kurutɔ",
+                "kurutɔla"
+            ],
+            "past_participle": "kurulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "biri",
+        "meaning": [
+            {
+                "word": "To beer",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka biri",
+            "transitive": {
+                "past_form": "birira",
+                "present_form": "biri",
+                "future_form": "biri"
+            },
+            "intransitive": {
+                "past_form": "birira",
+                "present_form": "biri",
+                "future_form": "biri"
+            },
+            "present_participle": [
+                "biritɔ",
+                "biritɔla"
+            ],
+            "past_participle": "birilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "turu",
+        "meaning": [
+            {
+                "word": "To implant",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka turu",
+            "transitive": {
+                "past_form": "turura",
+                "present_form": "turu",
+                "future_form": "turu"
+            },
+            "intransitive": {
+                "past_form": "turura",
+                "present_form": "turu",
+                "future_form": "turu"
+            },
+            "present_participle": [
+                "turutɔ",
+                "turutɔla"
+            ],
+            "past_participle": "turulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sɛnɛ",
+        "meaning": [
+            {
+                "word": "To cultivate",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sɛnɛ",
+            "transitive": {
+                "past_form": "sɛnɛra",
+                "present_form": "sɛnɛ",
+                "future_form": "sɛnɛ"
+            },
+            "intransitive": {
+                "past_form": "sɛnɛra",
+                "present_form": "sɛnɛ",
+                "future_form": "sɛnɛ"
+            },
+            "present_participle": [
+                "sɛnɛtɔ",
+                "sɛnɛtɔla"
+            ],
+            "past_participle": "sɛnɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "dan",
+        "meaning": [
+            {
+                "word": "To implant (agriculture)",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka dan",
+            "transitive": {
+                "past_form": "danna",
+                "present_form": "dan",
+                "future_form": "dan"
+            },
+            "intransitive": {
+                "past_form": "danna",
+                "present_form": "dan",
+                "future_form": "dan"
+            },
+            "present_participle": [
+                "dantɔ",
+                "dantɔla"
+            ],
+            "past_participle": "danlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "jɛngɛn",
+        "meaning": [
+            {
+                "word": "To tilt",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka jɛngɛn",
+            "transitive": {
+                "past_form": "jɛngɛnna",
+                "present_form": "jɛngɛn",
+                "future_form": "jɛngɛn"
+            },
+            "intransitive": {
+                "past_form": "jɛngɛnna",
+                "present_form": "jɛngɛn",
+                "future_form": "jɛngɛn"
+            },
+            "present_participle": [
+                "jɛngɛntɔ",
+                "jɛngɛntɔla"
+            ],
+            "past_participle": "jɛngɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "pan",
+        "meaning": [
+            {
+                "word": "To jump",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka pan",
+            "transitive": {
+                "past_form": "panna",
+                "present_form": "pan",
+                "future_form": "pan"
+            },
+            "intransitive": {
+                "past_form": "panna",
+                "present_form": "pan",
+                "future_form": "pan"
+            },
+            "present_participle": [
+                "pantɔ",
+                "pantɔla"
+            ],
+            "past_participle": "panlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "fili",
+        "meaning": [
+            {
+                "word": "To throw",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka fili",
+            "transitive": {
+                "past_form": "filila",
+                "present_form": "fili",
+                "future_form": "fili"
+            },
+            "intransitive": {
+                "past_form": "filila",
+                "present_form": "fili",
+                "future_form": "fili"
+            },
+            "present_participle": [
+                "filitɔ",
+                "filitɔla"
+            ],
+            "past_participle": "fililen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ye",
+        "meaning": [
+            {
+                "word": "To see",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ye",
+            "transitive": {
+                "past_form": "yera",
+                "present_form": "ye",
+                "future_form": "ye"
+            },
+            "intransitive": {
+                "past_form": "yera",
+                "present_form": "ye",
+                "future_form": "ye"
+            },
+            "present_participle": [
+                "yetɔ",
+                "yetɔla"
+            ],
+            "past_participle": "yelen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yigiyigi",
+        "meaning": [
+            {
+                "word": "To tremble",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yigiyigi",
+            "transitive": {
+                "past_form": "yigiyigira",
+                "present_form": "yigiyigi",
+                "future_form": "yigiyigi"
+            },
+            "intransitive": {
+                "past_form": "yigiyigira",
+                "present_form": "yigiyigi",
+                "future_form": "yigiyigi"
+            },
+            "present_participle": [
+                "yigiyigitɔ",
+                "yigiyigitɔla"
+            ],
+            "past_participle": "yigiyigilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "yɛrɛyɛrɛ",
+        "meaning": [
+            {
+                "word": "To tremble",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka yɛrɛyɛrɛ",
+            "transitive": {
+                "past_form": "yɛrɛyɛrɛra",
+                "present_form": "yɛrɛyɛrɛ",
+                "future_form": "yɛrɛyɛrɛ"
+            },
+            "intransitive": {
+                "past_form": "yɛrɛyɛrɛra",
+                "present_form": "yɛrɛyɛrɛ",
+                "future_form": "yɛrɛyɛrɛ"
+            },
+            "present_participle": [
+                "yɛrɛyɛrɛtɔ",
+                "yɛrɛyɛrɛtɔla"
+            ],
+            "past_participle": "yɛrɛyɛrɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kala",
+        "meaning": [
+            {
+                "word": "To sew",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kala",
+            "transitive": {
+                "past_form": "kalala",
+                "present_form": "kala",
+                "future_form": "kala"
+            },
+            "intransitive": {
+                "past_form": "kalala",
+                "present_form": "kala",
+                "future_form": "kala"
+            },
+            "present_participle": [
+                "kalatɔ",
+                "kalatɔla"
+            ],
+            "past_participle": "kalalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "woyo",
+        "meaning": [
+            {
+                "word": "To shrink",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka woyo",
+            "transitive": {
+                "past_form": "woyora",
+                "present_form": "woyo",
+                "future_form": "woyo"
+            },
+            "intransitive": {
+                "past_form": "woyora",
+                "present_form": "woyo",
+                "future_form": "woyo"
+            },
+            "present_participle": [
+                "woyotɔ",
+                "woyotɔla"
+            ],
+            "past_participle": "woyolen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "datugu",
+        "meaning": [
+            {
+                "word": "To close",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka datugu",
+            "transitive": {
+                "past_form": "datugura",
+                "present_form": "datugu",
+                "future_form": "datugu"
+            },
+            "intransitive": {
+                "past_form": "datugura",
+                "present_form": "datugu",
+                "future_form": "datugu"
+            },
+            "present_participle": [
+                "datugutɔ",
+                "datugutɔla"
+            ],
+            "past_participle": "datugulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "cɛɛnɛ",
+        "meaning": [
+            {
+                "word": "To slide",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka cɛɛnɛ",
+            "transitive": {
+                "past_form": "cɛɛnɛra",
+                "present_form": "cɛɛnɛ",
+                "future_form": "cɛɛnɛ"
+            },
+            "intransitive": {
+                "past_form": "cɛɛnɛra",
+                "present_form": "cɛɛnɛ",
+                "future_form": "cɛɛnɛ"
+            },
+            "present_participle": [
+                "cɛɛnɛtɔ",
+                "cɛɛnɛtɔla"
+            ],
+            "past_participle": "cɛɛnɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "munumun",
+        "meaning": [
+            {
+                "word": "To swallow",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka munumun",
+            "transitive": {
+                "past_form": "munumunna",
+                "present_form": "munumun",
+                "future_form": "munumun"
+            },
+            "intransitive": {
+                "past_form": "munumunna",
+                "present_form": "munumun",
+                "future_form": "munumun"
+            },
+            "present_participle": [
+                "munumuntɔ",
+                "munumuntɔla"
+            ],
+            "past_participle": "munumunlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "cɛci",
+        "meaning": [
+            {
+                "word": "To split",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka cɛci",
+            "transitive": {
+                "past_form": "cɛcira",
+                "present_form": "cɛci",
+                "future_form": "cɛci"
+            },
+            "intransitive": {
+                "past_form": "cɛcira",
+                "present_form": "cɛci",
+                "future_form": "cɛci"
+            },
+            "present_participle": [
+                "cɛcitɔ",
+                "cɛcitɔla"
+            ],
+            "past_participle": "cɛcilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bɛrɛbɛrɛ",
+        "meaning": [
+            {
+                "word": "To fully",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bɛrɛbɛrɛ",
+            "transitive": {
+                "past_form": "bɛrɛbɛrɛra",
+                "present_form": "bɛrɛbɛrɛ",
+                "future_form": "bɛrɛbɛrɛ"
+            },
+            "intransitive": {
+                "past_form": "bɛrɛbɛrɛra",
+                "present_form": "bɛrɛbɛrɛ",
+                "future_form": "bɛrɛbɛrɛ"
+            },
+            "present_participle": [
+                "bɛrɛbɛrɛtɔ",
+                "bɛrɛbɛrɛtɔla"
+            ],
+            "past_participle": "bɛrɛbɛrɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "bɛrɛbin",
+        "meaning": [
+            {
+                "word": "To to fall",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka bɛrɛbin",
+            "transitive": {
+                "past_form": "bɛrɛbinna",
+                "present_form": "bɛrɛbin",
+                "future_form": "bɛrɛbin"
+            },
+            "intransitive": {
+                "past_form": "bɛrɛbinna",
+                "present_form": "bɛrɛbin",
+                "future_form": "bɛrɛbin"
+            },
+            "present_participle": [
+                "bɛrɛbintɔ",
+                "bɛrɛbintɔla"
+            ],
+            "past_participle": "bɛrɛbinlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kin",
+        "meaning": [
+            {
+                "word": "To bite",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kin",
+            "transitive": {
+                "past_form": "kinna",
+                "present_form": "kin",
+                "future_form": "kin"
+            },
+            "intransitive": {
+                "past_form": "kinna",
+                "present_form": "kin",
+                "future_form": "kin"
+            },
+            "present_participle": [
+                "kintɔ",
+                "kintɔla"
+            ],
+            "past_participle": "kinlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kari",
+        "meaning": [
+            {
+                "word": "To breach",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kari",
+            "transitive": {
+                "past_form": "karira",
+                "present_form": "kari",
+                "future_form": "kari"
+            },
+            "intransitive": {
+                "past_form": "karira",
+                "present_form": "kari",
+                "future_form": "kari"
+            },
+            "present_participle": [
+                "karitɔ",
+                "karitɔla"
+            ],
+            "past_participle": "karilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "sabati",
+        "meaning": [
+            {
+                "word": "To thrive",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka sabati",
+            "transitive": {
+                "past_form": "sabatira",
+                "present_form": "sabati",
+                "future_form": "sabati"
+            },
+            "intransitive": {
+                "past_form": "sabatira",
+                "present_form": "sabati",
+                "future_form": "sabati"
+            },
+            "present_participle": [
+                "sabatitɔ",
+                "sabatitɔla"
+            ],
+            "past_participle": "sabatilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kali",
+        "meaning": [
+            {
+                "word": "To swear",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kali",
+            "transitive": {
+                "past_form": "kalila",
+                "present_form": "kali",
+                "future_form": "kali"
+            },
+            "intransitive": {
+                "past_form": "kalila",
+                "present_form": "kali",
+                "future_form": "kali"
+            },
+            "present_participle": [
+                "kalitɔ",
+                "kalitɔla"
+            ],
+            "past_participle": "kalilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "furu",
+        "meaning": [
+            {
+                "word": "To marry",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka furu",
+            "transitive": {
+                "past_form": "furura",
+                "present_form": "furu",
+                "future_form": "furu"
+            },
+            "intransitive": {
+                "past_form": "furura",
+                "present_form": "furu",
+                "future_form": "furu"
+            },
+            "present_participle": [
+                "furutɔ",
+                "furutɔla"
+            ],
+            "past_participle": "furulen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "ɲagi",
+        "meaning": [
+            {
+                "word": "To be excited",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka ɲagi",
+            "transitive": {
+                "past_form": "ɲagira",
+                "present_form": "ɲagi",
+                "future_form": "ɲagi"
+            },
+            "intransitive": {
+                "past_form": "ɲagira",
+                "present_form": "ɲagi",
+                "future_form": "ɲagi"
+            },
+            "present_participle": [
+                "ɲagitɔ",
+                "ɲagitɔla"
+            ],
+            "past_participle": "ɲagilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "lakali",
+        "meaning": [
+            {
+                "word": "To tell",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka lakali",
+            "transitive": {
+                "past_form": "lakalila",
+                "present_form": "lakali",
+                "future_form": "lakali"
+            },
+            "intransitive": {
+                "past_form": "lakalila",
+                "present_form": "lakali",
+                "future_form": "lakali"
+            },
+            "present_participle": [
+                "lakalitɔ",
+                "lakalitɔla"
+            ],
+            "past_participle": "lakalilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "miiri",
+        "meaning": [
+            {
+                "word": "To think",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka miiri",
+            "transitive": {
+                "past_form": "miirira",
+                "present_form": "miiri",
+                "future_form": "miiri"
+            },
+            "intransitive": {
+                "past_form": "miirira",
+                "present_form": "miiri",
+                "future_form": "miiri"
+            },
+            "present_participle": [
+                "miiritɔ",
+                "miiritɔla"
+            ],
+            "past_participle": "miirilen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "kɛɲɛ",
+        "meaning": [
+            {
+                "word": "To according to",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka kɛɲɛ",
+            "transitive": {
+                "past_form": "kɛɲɛra",
+                "present_form": "kɛɲɛ",
+                "future_form": "kɛɲɛ"
+            },
+            "intransitive": {
+                "past_form": "kɛɲɛra",
+                "present_form": "kɛɲɛ",
+                "future_form": "kɛɲɛ"
+            },
+            "present_participle": [
+                "kɛɲɛtɔ",
+                "kɛɲɛtɔla"
+            ],
+            "past_participle": "kɛɲɛlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "janya",
+        "meaning": [
+            {
+                "word": "To expand",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka janya",
+            "transitive": {
+                "past_form": "janyara",
+                "present_form": "janya",
+                "future_form": "janya"
+            },
+            "intransitive": {
+                "past_form": "janyara",
+                "present_form": "janya",
+                "future_form": "janya"
+            },
+            "present_participle": [
+                "janyatɔ",
+                "janyatɔla"
+            ],
+            "past_participle": "janyalen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    },
+    {
+        "word": "siyɛn",
+        "meaning": [
+            {
+                "word": "To scratch",
+                "circonstance": ""
+            }
+        ],
+        "part_of_speech": "VERB",
+        "conjugations": {
+            "infinitive": "Ka siyɛn",
+            "transitive": {
+                "past_form": "siyɛnna",
+                "present_form": "siyɛn",
+                "future_form": "siyɛn"
+            },
+            "intransitive": {
+                "past_form": "siyɛnna",
+                "present_form": "siyɛn",
+                "future_form": "siyɛn"
+            },
+            "present_participle": [
+                "siyɛntɔ",
+                "siyɛntɔla"
+            ],
+            "past_participle": "siyɛnlen"
+        },
+        "additional_information": {
+            "usage": "",
+            "examples": [],
+            "synonyms": [],
+            "antonyms": [],
+            "related_terms": []
+        }
+    }
+]
